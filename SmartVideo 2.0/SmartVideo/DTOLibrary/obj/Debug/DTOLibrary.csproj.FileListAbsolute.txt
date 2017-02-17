@@ -1,0 +1,10 @@
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\DTOLibrary\bin\Debug\DTOLibrary.dll
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\DTOLibrary\bin\Debug\DTOLibrary.pdb
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\DTOLibrary\obj\Debug\DTOLibrary.csprojResolveAssemblyReference.cache
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\DTOLibrary\obj\Debug\DTOLibrary.dll
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\DTOLibrary\obj\Debug\DTOLibrary.pdb
+C:\Users\flore\Desktop\SmartVideo\DTOLibrary\bin\Debug\DTOLibrary.dll
+C:\Users\flore\Desktop\SmartVideo\DTOLibrary\bin\Debug\DTOLibrary.pdb
+C:\Users\flore\Desktop\SmartVideo\DTOLibrary\obj\Debug\DTOLibrary.dll
+C:\Users\flore\Desktop\SmartVideo\DTOLibrary\obj\Debug\DTOLibrary.pdb
+C:\Users\flore\Desktop\SmartVideo\DTOLibrary\obj\Debug\DTOLibrary.csprojResolveAssemblyReference.cache

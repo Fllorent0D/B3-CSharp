@@ -1,0 +1,28 @@
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\WcfService1\bin\BusinessLogicLayer.dll
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\WcfService1\bin\DTOLibrary.dll
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\WcfService1\bin\DataAccessLayer.dll
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\WcfService1\bin\BusinessLogicLayer.pdb
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\WcfService1\bin\DTOLibrary.pdb
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\WcfService1\bin\DataAccessLayer.pdb
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\WcfService1\obj\Debug\SmartWFCService.csprojResolveAssemblyReference.cache
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\WcfService1\bin\ServiceSmart.dll.config
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\WcfService1\bin\ServiceSmart.dll
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\WcfService1\bin\ServiceSmart.pdb
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\WcfService1\obj\Debug\ServiceSmart.dll
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\WcfService1\obj\Debug\ServiceSmart.pdb
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\WcfService1\bin\DataAccessLayerDBVideotheque.dll
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\WcfService1\bin\DataAccessLayerDBVideotheque.pdb
+C:\Users\flore\Desktop\SmartVideo\WcfService1\bin\ServiceSmart.dll.config
+C:\Users\flore\Desktop\SmartVideo\WcfService1\bin\ServiceSmart.dll
+C:\Users\flore\Desktop\SmartVideo\WcfService1\bin\ServiceSmart.pdb
+C:\Users\flore\Desktop\SmartVideo\WcfService1\bin\BusinessLogicLayer.dll
+C:\Users\flore\Desktop\SmartVideo\WcfService1\bin\DTOLibrary.dll
+C:\Users\flore\Desktop\SmartVideo\WcfService1\bin\DataAccessLayerDBVideotheque.dll
+C:\Users\flore\Desktop\SmartVideo\WcfService1\bin\DataAccessLayer.dll
+C:\Users\flore\Desktop\SmartVideo\WcfService1\bin\BusinessLogicLayer.pdb
+C:\Users\flore\Desktop\SmartVideo\WcfService1\bin\DTOLibrary.pdb
+C:\Users\flore\Desktop\SmartVideo\WcfService1\bin\DataAccessLayerDBVideotheque.pdb
+C:\Users\flore\Desktop\SmartVideo\WcfService1\bin\DataAccessLayer.pdb
+C:\Users\flore\Desktop\SmartVideo\WcfService1\obj\Debug\SmartWFCService.csprojResolveAssemblyReference.cache
+C:\Users\flore\Desktop\SmartVideo\WcfService1\obj\Debug\ServiceSmart.dll
+C:\Users\flore\Desktop\SmartVideo\WcfService1\obj\Debug\ServiceSmart.pdb

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c5ebf8b8-40e3-4300-bbef-42d3d5d2809b" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:60863/ServiceSmart.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceSmart.wsdl" MetadataType="Wsdl" ID="3fd6a0d9-5281-4dba-8d7f-5da77b552dc3" SourceId="1" SourceUrl="http://localhost:60863/ServiceSmart.svc?wsdl" />
+    <MetadataFile FileName="ServiceSmart.disco" MetadataType="Disco" ID="af5ee96f-c6db-4eca-b828-03a84ef47276" SourceId="1" SourceUrl="http://localhost:60863/ServiceSmart.svc?disco" />
+    <MetadataFile FileName="ServiceSmart.xsd" MetadataType="Schema" ID="9a6ab84b-ff59-4dbc-a3f1-3a72125a8f75" SourceId="1" SourceUrl="http://localhost:60863/ServiceSmart.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServiceSmart1.xsd" MetadataType="Schema" ID="e35ee39b-b74d-4536-bd21-91a4f58108cf" SourceId="1" SourceUrl="http://localhost:60863/ServiceSmart.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServiceSmart2.xsd" MetadataType="Schema" ID="d2ca3a06-f5ce-4962-81de-50e8ef46e68e" SourceId="1" SourceUrl="http://localhost:60863/ServiceSmart.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

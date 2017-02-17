@@ -1,0 +1,6 @@
+C:\Users\flore\Desktop\SmartVideo\DTOLibrary\bin\Release\DTOLibrary.dll
+C:\Users\flore\Desktop\SmartVideo\DTOLibrary\bin\Release\DTOLibrary.pdb
+C:\Users\flore\Desktop\SmartVideo\DTOLibrary\obj\Release\DTOLibrary.dll
+C:\Users\flore\Desktop\SmartVideo\DTOLibrary\obj\Release\DTOLibrary.pdb
+C:\Users\flore\Desktop\SmartVideo\DTOLibrary\obj\Release\DTOLibrary.dll.mdb
+C:\Users\flore\Desktop\SmartVideo\DTOLibrary\bin\Release\DTOLibrary.dll.mdb

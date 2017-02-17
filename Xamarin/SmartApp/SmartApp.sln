@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 15.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartApp", "SmartApp.csproj", "{35AF0DA1-8EC8-483F-BA46-F930CCDC4830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTOLibrary", "..\DTOLibrary\DTOLibrary.csproj", "{574A4C4F-A555-480D-91AB-245BA625C07A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35AF0DA1-8EC8-483F-BA46-F930CCDC4830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35AF0DA1-8EC8-483F-BA46-F930CCDC4830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35AF0DA1-8EC8-483F-BA46-F930CCDC4830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35AF0DA1-8EC8-483F-BA46-F930CCDC4830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{574A4C4F-A555-480D-91AB-245BA625C07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{574A4C4F-A555-480D-91AB-245BA625C07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{574A4C4F-A555-480D-91AB-245BA625C07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{574A4C4F-A555-480D-91AB-245BA625C07A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+	EndGlobalSection
+EndGlobal

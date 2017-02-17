@@ -1,0 +1,12 @@
+SmartApp.Film, SmartApp;md51fae7d725254cef38fab76fbe636f4fc.Film
+SmartApp.Film, SmartApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51fae7d725254cef38fab76fbe636f4fc.Film
+SmartApp.Film;md51fae7d725254cef38fab76fbe636f4fc.Film
+smartapp.Film;md51fae7d725254cef38fab76fbe636f4fc.Film
+SmartApp.MainActivity, SmartApp;md51fae7d725254cef38fab76fbe636f4fc.MainActivity
+SmartApp.MainActivity, SmartApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51fae7d725254cef38fab76fbe636f4fc.MainActivity
+SmartApp.MainActivity;md51fae7d725254cef38fab76fbe636f4fc.MainActivity
+smartapp.MainActivity;md51fae7d725254cef38fab76fbe636f4fc.MainActivity
+SmartApp.FilmViewAdapter, SmartApp;md51fae7d725254cef38fab76fbe636f4fc.FilmViewAdapter
+SmartApp.FilmViewAdapter, SmartApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51fae7d725254cef38fab76fbe636f4fc.FilmViewAdapter
+SmartApp.FilmViewAdapter;md51fae7d725254cef38fab76fbe636f4fc.FilmViewAdapter
+smartapp.FilmViewAdapter;md51fae7d725254cef38fab76fbe636f4fc.FilmViewAdapter

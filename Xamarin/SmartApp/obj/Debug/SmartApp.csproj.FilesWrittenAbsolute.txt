@@ -1,0 +1,4 @@
+/Users/florentcardoen/Desktop/SmartApp/obj/Debug/MonoAndroid,Version=v7.1.AssemblyAttribute.cs
+/Users/florentcardoen/Desktop/SmartApp/bin/Debug/DTOLibrary.dll
+/Users/florentcardoen/Desktop/SmartApp/bin/Debug/DTOLibrary.dll.mdb
+/Users/florentcardoen/Desktop/SmartApp/bin/Debug/DTOLibrary.pdb

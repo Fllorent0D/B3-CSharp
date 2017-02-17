@@ -1,0 +1,62 @@
+﻿<Window x:Class="SmartVideo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SmartVideo"
+        mc:Ignorable="d"
+        Title="SmartVideo" Height="745.195" Width="1177.984" Closed="Window_Closed">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="97*"/>
+            <ColumnDefinition Width="98*"/>
+        </Grid.ColumnDefinitions>
+
+
+        <ToolBar x:Name="toolBar" VerticalAlignment="Top" Grid.ColumnSpan="2">
+            <Button x:Name="button5" Content="View requests" VerticalAlignment="Stretch" Width="91" Click="button5_Click"/>
+            <Button x:Name="button" Content="View Posts" VerticalAlignment="Top" Width="75" Click="button_Click" Height="22"/>
+            <Button x:Name="searchBtn" Content="Rechercher" Height="22" VerticalAlignment="Top" Width="75" Click="searchBtn_Click"/>
+        </ToolBar>
+        <ListView x:Name="DBFilmsLV" Margin="0,52,1,0" MouseDoubleClick="DBFilmsLV_MouseDoubleClick" AutomationProperties.IsColumnHeader="True">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="30" Header="ID"
+                        DisplayMemberBinding="{Binding id}"  />
+                    <GridViewColumn Header="Titre"  
+                        DisplayMemberBinding="{Binding titre}" />
+                    <GridViewColumn Header="Titre original"  
+                        DisplayMemberBinding="{Binding original_title}" />
+                    <GridViewColumn Header="Durée"  
+                        DisplayMemberBinding="{Binding runtime}" />
+                    
+                    <GridViewColumn Header="Disponibilite"  
+                        DisplayMemberBinding="{Binding available}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ListView x:Name="DBVideothequeLV" ItemsSource="{Binding listDBFilms}" Margin="4,52,0,0" Grid.Column="1" MouseDoubleClick="DBFilmsLV_MouseDoubleClick">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="30" Header="ID"
+                            DisplayMemberBinding="{Binding id}"  />
+                    <GridViewColumn Header="Titre"  
+                            DisplayMemberBinding="{Binding titre}" />
+                    <GridViewColumn Header="Titre original"  
+                            DisplayMemberBinding="{Binding original_title}" />
+                    <GridViewColumn Header="Durée"  
+                            DisplayMemberBinding="{Binding runtime}" />
+                    
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button x:Name="button6" Content="Request Film" Margin="10,27,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="75" Click="requestFilm"/>
+        <Button x:Name="button7" Content="Load DBFilm" HorizontalAlignment="Left" Margin="90,26,0,0" VerticalAlignment="Top" Width="75" Click="loadDBFilm"/>
+        <Button x:Name="button8" Content="Load DBVideo" Grid.Column="1" HorizontalAlignment="Left" Margin="10,27,0,0" Width="100" Height="20" VerticalAlignment="Top" Click="loadDBVideo"/>
+        <Button x:Name="button9" Content="Dispose Film" Grid.Column="1" HorizontalAlignment="Left" Margin="115,26,0,0" Width="75" Height="20" VerticalAlignment="Top" Click="disposeFilm"/>
+        <Button x:Name="reloadDBFilm" Content="Reload" HorizontalAlignment="Left" Margin="170,26,0,0" VerticalAlignment="Top" Width="75" Click="reloadDBFilm_Click"/>
+
+    </Grid>
+</Window>
+

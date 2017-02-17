@@ -1,0 +1,13 @@
+/Users/florentcardoen/Desktop/SmartApp/obj/Release/android/assets/SmartApp.dll
+/Users/florentcardoen/Desktop/SmartApp/obj/Release/android/assets/Java.Interop.dll
+/Users/florentcardoen/Desktop/SmartApp/obj/Release/android/assets/Mono.Android.dll
+/Users/florentcardoen/Desktop/SmartApp/obj/Release/android/assets/mscorlib.dll
+/Users/florentcardoen/Desktop/SmartApp/obj/Release/android/assets/System.Core.dll
+/Users/florentcardoen/Desktop/SmartApp/obj/Release/android/assets/System.dll
+/Users/florentcardoen/Desktop/SmartApp/obj/Release/android/assets/System.Xml.dll
+/Users/florentcardoen/Desktop/SmartApp/obj/Release/android/assets/System.Xml.Linq.dll
+/Users/florentcardoen/Desktop/SmartApp/obj/Release/android/assets/Newtonsoft.Json.dll
+/Users/florentcardoen/Desktop/SmartApp/obj/Release/android/assets/UrlImageViewHelper.dll
+/Users/florentcardoen/Desktop/SmartApp/obj/Release/android/assets/System.Runtime.Serialization.dll
+/Users/florentcardoen/Desktop/SmartApp/obj/Release/android/assets/Microsoft.CSharp.dll
+/Users/florentcardoen/Desktop/SmartApp/obj/Release/android/assets/Mono.CSharp.dll

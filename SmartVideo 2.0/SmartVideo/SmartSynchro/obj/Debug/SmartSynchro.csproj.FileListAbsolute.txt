@@ -1,0 +1,16 @@
+C:\Users\flore\Desktop\SmartVideo\SmartSynchro\bin\Debug\SmartSynchro.exe.config
+C:\Users\flore\Desktop\SmartVideo\SmartSynchro\bin\Debug\SmartSynchro.exe
+C:\Users\flore\Desktop\SmartVideo\SmartSynchro\bin\Debug\SmartSynchro.pdb
+C:\Users\flore\Desktop\SmartVideo\SmartSynchro\obj\Debug\SmartSynchro.ProjectInstaller.resources
+C:\Users\flore\Desktop\SmartVideo\SmartSynchro\obj\Debug\SmartSynchro.csproj.GenerateResource.Cache
+C:\Users\flore\Desktop\SmartVideo\SmartSynchro\obj\Debug\SmartSynchro.exe
+C:\Users\flore\Desktop\SmartVideo\SmartSynchro\obj\Debug\SmartSynchro.pdb
+C:\Users\flore\Desktop\SmartVideo\SmartSynchro\bin\Debug\BusinessLogicLayer.dll
+C:\Users\flore\Desktop\SmartVideo\SmartSynchro\bin\Debug\DTOLibrary.dll
+C:\Users\flore\Desktop\SmartVideo\SmartSynchro\bin\Debug\DataAccessLayer.dll
+C:\Users\flore\Desktop\SmartVideo\SmartSynchro\bin\Debug\DataAccessLayerDBVideotheque.dll
+C:\Users\flore\Desktop\SmartVideo\SmartSynchro\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\flore\Desktop\SmartVideo\SmartSynchro\bin\Debug\DTOLibrary.pdb
+C:\Users\flore\Desktop\SmartVideo\SmartSynchro\bin\Debug\DataAccessLayer.pdb
+C:\Users\flore\Desktop\SmartVideo\SmartSynchro\bin\Debug\DataAccessLayerDBVideotheque.pdb
+C:\Users\flore\Desktop\SmartVideo\SmartSynchro\obj\Debug\SmartSynchro.csprojResolveAssemblyReference.cache

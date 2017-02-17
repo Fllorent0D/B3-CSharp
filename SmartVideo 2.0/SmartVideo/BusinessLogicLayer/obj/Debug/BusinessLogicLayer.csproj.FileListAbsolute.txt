@@ -1,0 +1,22 @@
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\BusinessLogicLayer\bin\Debug\DataAccessLayerDBVideotheque.dll
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\BusinessLogicLayer\bin\Debug\DTOLibrary.dll
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\BusinessLogicLayer\bin\Debug\DataAccessLayerDBVideotheque.pdb
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\BusinessLogicLayer\bin\Debug\DTOLibrary.pdb
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\flore\Desktop\SmartVideo\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\flore\Desktop\SmartVideo\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\flore\Desktop\SmartVideo\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\flore\Desktop\SmartVideo\BusinessLogicLayer\bin\Debug\DataAccessLayerDBVideotheque.dll
+C:\Users\flore\Desktop\SmartVideo\BusinessLogicLayer\bin\Debug\DTOLibrary.dll
+C:\Users\flore\Desktop\SmartVideo\BusinessLogicLayer\bin\Debug\DataAccessLayerDBVideotheque.pdb
+C:\Users\flore\Desktop\SmartVideo\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\flore\Desktop\SmartVideo\BusinessLogicLayer\bin\Debug\DTOLibrary.pdb
+C:\Users\flore\Desktop\SmartVideo\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\flore\Desktop\SmartVideo\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\flore\Desktop\SmartVideo\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

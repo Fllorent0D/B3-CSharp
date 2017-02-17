@@ -1,0 +1,35 @@
+﻿<Window x:Class="SmartVideo.InfosWindows"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SmartVideo"
+        mc:Ignorable="d"
+        Title="InfosWindows" Height="381.589" Width="403.659" ResizeMode="NoResize" WindowStyle="ToolWindow" WindowStartupLocation="CenterOwner" UseLayoutRounding="True">
+    <Grid>
+        <StackPanel>
+            <DockPanel Height="158">
+                <Image x:Name="posterImg" Width="123"/>
+                <StackPanel>
+                    <Label x:Name="title" Content="Label"/>
+                    <Label x:Name="oriTitle" Content="Label"/>
+                    <Label x:Name="runtime" Content="Label"/>
+                </StackPanel>
+            </DockPanel>
+            <StackPanel Height="194" Orientation="Horizontal">
+                <Grid Width="399">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+
+                    </Grid.ColumnDefinitions>
+                    <ListBox x:Name="genresLB" Grid.Column="0" />
+                    <ListBox x:Name="actorsLB" Grid.Column="1"/>
+                    <ListBox x:Name="realisatorsLB" Grid.Column="2"/>
+                </Grid>
+            </StackPanel>
+        </StackPanel>
+
+    </Grid>
+</Window>

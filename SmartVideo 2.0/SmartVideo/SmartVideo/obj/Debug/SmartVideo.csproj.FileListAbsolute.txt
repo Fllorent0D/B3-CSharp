@@ -1,0 +1,60 @@
+c:\users\floca\documents\visual studio 2015\Projects\SmartVideo\SmartVideo\bin\Debug\SmartVideo.exe.config
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\SmartVideo\bin\Debug\SmartVideo.exe
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\SmartVideo\bin\Debug\SmartVideo.pdb
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\SmartVideo\obj\Debug\SmartVideo.csprojResolveAssemblyReference.cache
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\SmartVideo\obj\Debug\MainWindow.g.cs
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\SmartVideo\obj\Debug\App.g.cs
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\SmartVideo\obj\Debug\SmartVideo_MarkupCompile.cache
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\SmartVideo\obj\Debug\SmartVideo_MarkupCompile.lref
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\SmartVideo\obj\Debug\MainWindow.baml
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\SmartVideo\obj\Debug\SmartVideo.g.resources
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\SmartVideo\obj\Debug\SmartVideo.Properties.Resources.resources
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\SmartVideo\obj\Debug\SmartVideo.csproj.GenerateResource.Cache
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\SmartVideo\obj\Debug\SmartVideo.exe
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\SmartVideo\obj\Debug\SmartVideo.pdb
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\SmartVideo\bin\Debug\BusinessLogicLayer.dll
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\SmartVideo\bin\Debug\DTOLibrary.dll
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\SmartVideo\bin\Debug\DataAccessLayer.dll
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\SmartVideo\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\SmartVideo\bin\Debug\DTOLibrary.pdb
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\SmartVideo\bin\Debug\ServiceSmart.pdb
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\SmartVideo\bin\Debug\DataAccessLayer.pdb
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\SmartVideo\bin\Debug\DataAccessLayerDBVideotheque.dll
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\SmartVideo\bin\Debug\DataAccessLayerDBVideotheque.pdb
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\SmartVideo\obj\Debug\RequestsWindow.g.cs
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\SmartVideo\obj\Debug\RequestsWindow.baml
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\bin\Debug\SmartVideo.exe.config
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\obj\Debug\SmartVideo.exe
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\obj\Debug\SmartVideo.pdb
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\bin\Debug\SmartVideo.exe
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\bin\Debug\SmartVideo.pdb
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\bin\Debug\BusinessLogicLayer.dll
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\bin\Debug\DTOLibrary.dll
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\bin\Debug\DataAccessLayerDBVideotheque.dll
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\bin\Debug\DataAccessLayer.dll
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\bin\Debug\DTOLibrary.pdb
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\bin\Debug\DataAccessLayerDBVideotheque.pdb
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\bin\Debug\DataAccessLayer.pdb
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\obj\Debug\SmartVideo.csprojResolveAssemblyReference.cache
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\obj\Debug\MainWindow.g.cs
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\obj\Debug\RequestsWindow.g.cs
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\obj\Debug\App.g.cs
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\obj\Debug\SmartVideo_MarkupCompile.cache
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\obj\Debug\SmartVideo_MarkupCompile.lref
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\obj\Debug\MainWindow.baml
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\obj\Debug\RequestsWindow.baml
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\obj\Debug\SmartVideo.g.resources
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\obj\Debug\SmartVideo.Properties.Resources.resources
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\obj\Debug\SmartVideo.csproj.GenerateResource.Cache
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\obj\Debug\NewsWindows.g.cs
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\obj\Debug\NewsWindows.baml
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\obj\Debug\InfosWindow.g.cs
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\obj\Debug\InfosWindow.baml
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\obj\Debug\SearchWindow.g.cs
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\obj\Debug\SearchWindow.baml
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\obj\Debug\SettingsWindow.g.cs
+C:\Users\flore\Desktop\SmartVideo\SmartVideo\obj\Debug\SettingsWindow.baml
+C:\Users\bastin\Dropbox\SmartVideo 2.0\SmartVideo\SmartVideo\bin\Debug\SmartVideo.exe.config
+C:\Users\bastin\Dropbox\SmartVideo 2.0\SmartVideo\SmartVideo\obj\Debug\SmartVideo.exe
+C:\Users\bastin\Dropbox\SmartVideo 2.0\SmartVideo\SmartVideo\obj\Debug\SmartVideo.pdb

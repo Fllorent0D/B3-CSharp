@@ -1,0 +1,16 @@
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\DataAccessLayerDBVideotheque\bin\Debug\DataAccessLayerDBVideotheque.dll.config
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\DataAccessLayerDBVideotheque\bin\Debug\DataAccessLayerDBVideotheque.dll
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\DataAccessLayerDBVideotheque\bin\Debug\DataAccessLayerDBVideotheque.pdb
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\DataAccessLayerDBVideotheque\obj\Debug\DataAccessLayerDBVideotheque.csprojResolveAssemblyReference.cache
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\DataAccessLayerDBVideotheque\obj\Debug\DataAccessLayerDBVideotheque.dll
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\DataAccessLayerDBVideotheque\obj\Debug\DataAccessLayerDBVideotheque.pdb
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\DataAccessLayerDBVideotheque\bin\Debug\DTOLibrary.dll
+C:\Users\floca\Documents\Visual Studio 2015\Projects\SmartVideo\DataAccessLayerDBVideotheque\bin\Debug\DTOLibrary.pdb
+C:\Users\flore\Desktop\SmartVideo\DataAccessLayerDBVideotheque\bin\Debug\DataAccessLayerDBVideotheque.dll.config
+C:\Users\flore\Desktop\SmartVideo\DataAccessLayerDBVideotheque\bin\Debug\DataAccessLayerDBVideotheque.dll
+C:\Users\flore\Desktop\SmartVideo\DataAccessLayerDBVideotheque\bin\Debug\DataAccessLayerDBVideotheque.pdb
+C:\Users\flore\Desktop\SmartVideo\DataAccessLayerDBVideotheque\bin\Debug\DTOLibrary.dll
+C:\Users\flore\Desktop\SmartVideo\DataAccessLayerDBVideotheque\bin\Debug\DTOLibrary.pdb
+C:\Users\flore\Desktop\SmartVideo\DataAccessLayerDBVideotheque\obj\Debug\DataAccessLayerDBVideotheque.dll
+C:\Users\flore\Desktop\SmartVideo\DataAccessLayerDBVideotheque\obj\Debug\DataAccessLayerDBVideotheque.pdb
+C:\Users\flore\Desktop\SmartVideo\DataAccessLayerDBVideotheque\obj\Debug\DataAccessLayerDBVideotheque.csprojResolveAssemblyReference.cache
